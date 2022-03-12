@@ -1,6 +1,6 @@
 ## Elton Kamuango
 
-Technologies enthisiast.  Software Developer JS | NodeJs | Express \ Focused in Backend Development
+Technologies enthisiast.  Software Developer JS | NodeJs | Express / Focused in Backend Development
 
 
 ### Where to find me!
