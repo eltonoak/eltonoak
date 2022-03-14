@@ -5,8 +5,8 @@ Technologies enthisiast and learn lover.<br> Software Developer: HTML | CSS| JS 
 <br>
 <div>
   <a href="https://github.com/Creuma-Kuzola">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/?username=kamuango-elton&theme=tokyonight&showicons=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamuango-elton&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/?username=kamuango-elton&theme=radical&showicons=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamuango-elton&theme=radical"/>
 </div>
   
 ### Where to find me!
