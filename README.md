@@ -4,7 +4,7 @@
 Technologies enthusiast and learn lover.<br> Software Developer: HTML | CSS| JS | NodeJs | PHP  <br>
 <br>
 <div>
-  <a href="https://github.com/Creuma-Kuzola">
+  <a href="https://github.com/eltonoak">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/?username=eltonoak&theme=radical&showicons=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eltonoak&theme=radical"/>
 </div>
