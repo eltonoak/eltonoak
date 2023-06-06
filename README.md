@@ -5,8 +5,7 @@ Technologies enthusiast and learn lover.<br> Software Developer: HTML | CSS| JS 
 <br>
 <div>
   <a href="https://github.com/eltonoak">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/?username=eltonoak&theme=radical&showicons=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eltonoak&theme=radical"/>
+    ![Elton's GitHub stats](https://github-readme-stats.vercel.app/api?username=eltonoak&show_icons=true&theme=radical)
 </div>
   
 ### Where to find me!
