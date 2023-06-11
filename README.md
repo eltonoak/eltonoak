@@ -1,7 +1,7 @@
 ## Hi! Welcome to Elton Kamuango profile.
 
 **Computers Engineering** *Bachelor* at **UMA** <br>
-Technologies enthusiast and learn lover.<br> Software Developer: HTML | CSS| JS | NodeJs | PHP  <br>
+Technologies enthusiast and learn lover.<br> Software Developer: HTML | CSS | JS | NodeJs | PHP | C# <br>
 <br>
 <div>
   <a href="https://github.com/eltonoak">
