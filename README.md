@@ -1,6 +1,6 @@
 ## Hi! Welcome to Elton Kamuango profile.
 
-**Computers Engineering** *Computer Engineer* at **UMA** <br>
+**Computers Engineer** at **UMA(Methodist University of Angola)** <br>
 Technologies enthusiast and learn lover.<br> Software Developer: HTML | CSS | JS | NodeJs | PHP | C# <br>
 <br>
 <div>
